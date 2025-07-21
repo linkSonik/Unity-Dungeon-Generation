@@ -70,3 +70,8 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+*.meta
+/My project (2)/Assets/Brackeys
+/My project (2)/Assets/Brackeys
+/My project (2)/Assets/Brackeys/2D Mega Pack
+/My project (2)/Library

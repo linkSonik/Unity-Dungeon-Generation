@@ -10,9 +10,10 @@ GameObject:
   m_Component:
   - component: {fileID: 5014501641117599539}
   - component: {fileID: 7210332527544949501}
+  - component: {fileID: 4860586586345363978}
   m_Layer: 9
   m_Name: SpawnFloor (20)
-  m_TagString: Untagged
+  m_TagString: SpawnFloor
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -48,6 +49,18 @@ MonoBehaviour:
   - {fileID: 6127198784939167874, guid: 781caf5292ea8dd4585b20daed191ebd, type: 3}
   - {fileID: 6127198784939167874, guid: c55c5d8fa5c165647bb153608420db2c, type: 3}
   - {fileID: 6127198784939167874, guid: 17f601c6317339146b56a7896b85b905, type: 3}
+--- !u!114 &4860586586345363978
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 76558658356705138}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55889f364545edf4abff2c14ec761408, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &100110893316113082
 GameObject:
   m_ObjectHideFlags: 0
@@ -58,9 +71,10 @@ GameObject:
   m_Component:
   - component: {fileID: 3902634843248045996}
   - component: {fileID: 2499977103969616375}
+  - component: {fileID: 3731486848687410053}
   m_Layer: 9
   m_Name: SpawnFloor (35)
-  m_TagString: Untagged
+  m_TagString: SpawnFloor
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -96,6 +110,18 @@ MonoBehaviour:
   - {fileID: 6127198784939167874, guid: 781caf5292ea8dd4585b20daed191ebd, type: 3}
   - {fileID: 6127198784939167874, guid: c55c5d8fa5c165647bb153608420db2c, type: 3}
   - {fileID: 6127198784939167874, guid: 17f601c6317339146b56a7896b85b905, type: 3}
+--- !u!114 &3731486848687410053
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 100110893316113082}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55889f364545edf4abff2c14ec761408, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &110294347878298447
 GameObject:
   m_ObjectHideFlags: 0
@@ -106,9 +132,10 @@ GameObject:
   m_Component:
   - component: {fileID: 6817689526875384076}
   - component: {fileID: 298353829148223466}
+  - component: {fileID: 801468838679877815}
   m_Layer: 9
   m_Name: SpawnFloor (15)
-  m_TagString: Untagged
+  m_TagString: SpawnFloor
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -144,6 +171,18 @@ MonoBehaviour:
   - {fileID: 6127198784939167874, guid: 781caf5292ea8dd4585b20daed191ebd, type: 3}
   - {fileID: 6127198784939167874, guid: c55c5d8fa5c165647bb153608420db2c, type: 3}
   - {fileID: 6127198784939167874, guid: 17f601c6317339146b56a7896b85b905, type: 3}
+--- !u!114 &801468838679877815
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 110294347878298447}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55889f364545edf4abff2c14ec761408, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &249045478368597377
 GameObject:
   m_ObjectHideFlags: 0
@@ -154,9 +193,10 @@ GameObject:
   m_Component:
   - component: {fileID: 6853814441213136643}
   - component: {fileID: 1920219863933967}
+  - component: {fileID: 4465158747342943189}
   m_Layer: 9
   m_Name: SpawnFloor (51)
-  m_TagString: Untagged
+  m_TagString: SpawnFloor
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -192,6 +232,18 @@ MonoBehaviour:
   - {fileID: 6127198784939167874, guid: 781caf5292ea8dd4585b20daed191ebd, type: 3}
   - {fileID: 6127198784939167874, guid: c55c5d8fa5c165647bb153608420db2c, type: 3}
   - {fileID: 6127198784939167874, guid: 17f601c6317339146b56a7896b85b905, type: 3}
+--- !u!114 &4465158747342943189
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 249045478368597377}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55889f364545edf4abff2c14ec761408, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &419114324998398767
 GameObject:
   m_ObjectHideFlags: 0
@@ -202,9 +254,10 @@ GameObject:
   m_Component:
   - component: {fileID: 5268910587460790094}
   - component: {fileID: 3064918359548266633}
+  - component: {fileID: 7729949683518197829}
   m_Layer: 9
   m_Name: SpawnFloor (10)
-  m_TagString: Untagged
+  m_TagString: SpawnFloor
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -240,6 +293,18 @@ MonoBehaviour:
   - {fileID: 6127198784939167874, guid: 781caf5292ea8dd4585b20daed191ebd, type: 3}
   - {fileID: 6127198784939167874, guid: c55c5d8fa5c165647bb153608420db2c, type: 3}
   - {fileID: 6127198784939167874, guid: 17f601c6317339146b56a7896b85b905, type: 3}
+--- !u!114 &7729949683518197829
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 419114324998398767}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55889f364545edf4abff2c14ec761408, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &896172758143531309
 GameObject:
   m_ObjectHideFlags: 0
@@ -250,9 +315,10 @@ GameObject:
   m_Component:
   - component: {fileID: 5883801898242403271}
   - component: {fileID: 8451922228056396230}
+  - component: {fileID: 4818956953589438531}
   m_Layer: 9
   m_Name: SpawnFloor (53)
-  m_TagString: Untagged
+  m_TagString: SpawnFloor
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -288,6 +354,18 @@ MonoBehaviour:
   - {fileID: 6127198784939167874, guid: 781caf5292ea8dd4585b20daed191ebd, type: 3}
   - {fileID: 6127198784939167874, guid: c55c5d8fa5c165647bb153608420db2c, type: 3}
   - {fileID: 6127198784939167874, guid: 17f601c6317339146b56a7896b85b905, type: 3}
+--- !u!114 &4818956953589438531
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 896172758143531309}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55889f364545edf4abff2c14ec761408, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &956574525737262565
 GameObject:
   m_ObjectHideFlags: 0
@@ -346,9 +424,10 @@ GameObject:
   m_Component:
   - component: {fileID: 2847493032935660208}
   - component: {fileID: 6199070342039066172}
+  - component: {fileID: 5286902483404761840}
   m_Layer: 9
   m_Name: SpawnFloor (17)
-  m_TagString: Untagged
+  m_TagString: SpawnFloor
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -384,6 +463,18 @@ MonoBehaviour:
   - {fileID: 6127198784939167874, guid: 781caf5292ea8dd4585b20daed191ebd, type: 3}
   - {fileID: 6127198784939167874, guid: c55c5d8fa5c165647bb153608420db2c, type: 3}
   - {fileID: 6127198784939167874, guid: 17f601c6317339146b56a7896b85b905, type: 3}
+--- !u!114 &5286902483404761840
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1000018943694084194}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55889f364545edf4abff2c14ec761408, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1243064731175245165
 GameObject:
   m_ObjectHideFlags: 0
@@ -394,9 +485,10 @@ GameObject:
   m_Component:
   - component: {fileID: 1793422361151443715}
   - component: {fileID: 5461318501851561591}
+  - component: {fileID: 8160747326301787994}
   m_Layer: 9
   m_Name: SpawnFloor (24)
-  m_TagString: Untagged
+  m_TagString: SpawnFloor
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -432,6 +524,18 @@ MonoBehaviour:
   - {fileID: 6127198784939167874, guid: 781caf5292ea8dd4585b20daed191ebd, type: 3}
   - {fileID: 6127198784939167874, guid: c55c5d8fa5c165647bb153608420db2c, type: 3}
   - {fileID: 6127198784939167874, guid: 17f601c6317339146b56a7896b85b905, type: 3}
+--- !u!114 &8160747326301787994
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1243064731175245165}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55889f364545edf4abff2c14ec761408, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1424175688091216915
 GameObject:
   m_ObjectHideFlags: 0
@@ -442,9 +546,10 @@ GameObject:
   m_Component:
   - component: {fileID: 2762355966013534854}
   - component: {fileID: 145115985667189392}
+  - component: {fileID: 5512230151903429311}
   m_Layer: 9
   m_Name: SpawnFloor (64)
-  m_TagString: Untagged
+  m_TagString: SpawnFloor
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -480,6 +585,18 @@ MonoBehaviour:
   - {fileID: 6127198784939167874, guid: 781caf5292ea8dd4585b20daed191ebd, type: 3}
   - {fileID: 6127198784939167874, guid: c55c5d8fa5c165647bb153608420db2c, type: 3}
   - {fileID: 6127198784939167874, guid: 17f601c6317339146b56a7896b85b905, type: 3}
+--- !u!114 &5512230151903429311
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1424175688091216915}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55889f364545edf4abff2c14ec761408, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1454679769902307869
 GameObject:
   m_ObjectHideFlags: 0
@@ -490,9 +607,10 @@ GameObject:
   m_Component:
   - component: {fileID: 8052485664951952449}
   - component: {fileID: 6361779062303071888}
+  - component: {fileID: 3109866266712522810}
   m_Layer: 9
   m_Name: SpawnFloor (29)
-  m_TagString: Untagged
+  m_TagString: SpawnFloor
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -528,6 +646,18 @@ MonoBehaviour:
   - {fileID: 6127198784939167874, guid: 781caf5292ea8dd4585b20daed191ebd, type: 3}
   - {fileID: 6127198784939167874, guid: c55c5d8fa5c165647bb153608420db2c, type: 3}
   - {fileID: 6127198784939167874, guid: 17f601c6317339146b56a7896b85b905, type: 3}
+--- !u!114 &3109866266712522810
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1454679769902307869}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55889f364545edf4abff2c14ec761408, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1554354542978995061
 GameObject:
   m_ObjectHideFlags: 0
@@ -538,9 +668,10 @@ GameObject:
   m_Component:
   - component: {fileID: 4713989576844739850}
   - component: {fileID: 2543410070908173583}
+  - component: {fileID: 8665479610247197580}
   m_Layer: 9
   m_Name: SpawnFloor (39)
-  m_TagString: Untagged
+  m_TagString: SpawnFloor
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -576,6 +707,18 @@ MonoBehaviour:
   - {fileID: 6127198784939167874, guid: 781caf5292ea8dd4585b20daed191ebd, type: 3}
   - {fileID: 6127198784939167874, guid: c55c5d8fa5c165647bb153608420db2c, type: 3}
   - {fileID: 6127198784939167874, guid: 17f601c6317339146b56a7896b85b905, type: 3}
+--- !u!114 &8665479610247197580
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1554354542978995061}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55889f364545edf4abff2c14ec761408, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1757942147744671259
 GameObject:
   m_ObjectHideFlags: 0
@@ -586,9 +729,10 @@ GameObject:
   m_Component:
   - component: {fileID: 5948491400628116944}
   - component: {fileID: 2843486354387845458}
+  - component: {fileID: 1832860822688689053}
   m_Layer: 9
   m_Name: SpawnFloor (66)
-  m_TagString: Untagged
+  m_TagString: SpawnFloor
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -624,6 +768,18 @@ MonoBehaviour:
   - {fileID: 6127198784939167874, guid: 781caf5292ea8dd4585b20daed191ebd, type: 3}
   - {fileID: 6127198784939167874, guid: c55c5d8fa5c165647bb153608420db2c, type: 3}
   - {fileID: 6127198784939167874, guid: 17f601c6317339146b56a7896b85b905, type: 3}
+--- !u!114 &1832860822688689053
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1757942147744671259}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55889f364545edf4abff2c14ec761408, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1775163782441643666
 GameObject:
   m_ObjectHideFlags: 0
@@ -634,9 +790,10 @@ GameObject:
   m_Component:
   - component: {fileID: 8157181167117289287}
   - component: {fileID: 5349148730558496660}
+  - component: {fileID: 4763314480822720356}
   m_Layer: 9
   m_Name: SpawnFloor (6)
-  m_TagString: Untagged
+  m_TagString: SpawnFloor
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -672,6 +829,18 @@ MonoBehaviour:
   - {fileID: 6127198784939167874, guid: 781caf5292ea8dd4585b20daed191ebd, type: 3}
   - {fileID: 6127198784939167874, guid: c55c5d8fa5c165647bb153608420db2c, type: 3}
   - {fileID: 6127198784939167874, guid: 17f601c6317339146b56a7896b85b905, type: 3}
+--- !u!114 &4763314480822720356
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1775163782441643666}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55889f364545edf4abff2c14ec761408, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1930172668674972139
 GameObject:
   m_ObjectHideFlags: 0
@@ -682,9 +851,10 @@ GameObject:
   m_Component:
   - component: {fileID: 5961415024862666861}
   - component: {fileID: 1929265525590896838}
+  - component: {fileID: 5395338757135775850}
   m_Layer: 9
   m_Name: SpawnFloor (54)
-  m_TagString: Untagged
+  m_TagString: SpawnFloor
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -720,6 +890,18 @@ MonoBehaviour:
   - {fileID: 6127198784939167874, guid: 781caf5292ea8dd4585b20daed191ebd, type: 3}
   - {fileID: 6127198784939167874, guid: c55c5d8fa5c165647bb153608420db2c, type: 3}
   - {fileID: 6127198784939167874, guid: 17f601c6317339146b56a7896b85b905, type: 3}
+--- !u!114 &5395338757135775850
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1930172668674972139}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55889f364545edf4abff2c14ec761408, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1976194020499424408
 GameObject:
   m_ObjectHideFlags: 0
@@ -778,9 +960,10 @@ GameObject:
   m_Component:
   - component: {fileID: 72787658817672931}
   - component: {fileID: 8827373928178303358}
+  - component: {fileID: 6381152043610719139}
   m_Layer: 9
   m_Name: SpawnFloor (33)
-  m_TagString: Untagged
+  m_TagString: SpawnFloor
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -816,6 +999,18 @@ MonoBehaviour:
   - {fileID: 6127198784939167874, guid: 781caf5292ea8dd4585b20daed191ebd, type: 3}
   - {fileID: 6127198784939167874, guid: c55c5d8fa5c165647bb153608420db2c, type: 3}
   - {fileID: 6127198784939167874, guid: 17f601c6317339146b56a7896b85b905, type: 3}
+--- !u!114 &6381152043610719139
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2253045620033099413}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55889f364545edf4abff2c14ec761408, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2470147817683450276
 GameObject:
   m_ObjectHideFlags: 0
@@ -826,9 +1021,10 @@ GameObject:
   m_Component:
   - component: {fileID: 7776138369311946014}
   - component: {fileID: 8403739447279781103}
+  - component: {fileID: 35477767202745987}
   m_Layer: 9
   m_Name: SpawnFloor (40)
-  m_TagString: Untagged
+  m_TagString: SpawnFloor
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -864,6 +1060,18 @@ MonoBehaviour:
   - {fileID: 6127198784939167874, guid: 781caf5292ea8dd4585b20daed191ebd, type: 3}
   - {fileID: 6127198784939167874, guid: c55c5d8fa5c165647bb153608420db2c, type: 3}
   - {fileID: 6127198784939167874, guid: 17f601c6317339146b56a7896b85b905, type: 3}
+--- !u!114 &35477767202745987
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2470147817683450276}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55889f364545edf4abff2c14ec761408, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2544141915458788154
 GameObject:
   m_ObjectHideFlags: 0
@@ -874,9 +1082,10 @@ GameObject:
   m_Component:
   - component: {fileID: 2883233774507771651}
   - component: {fileID: 4435238070916862078}
+  - component: {fileID: 4307914313655065338}
   m_Layer: 9
   m_Name: SpawnFloor (12)
-  m_TagString: Untagged
+  m_TagString: SpawnFloor
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -912,6 +1121,18 @@ MonoBehaviour:
   - {fileID: 6127198784939167874, guid: 781caf5292ea8dd4585b20daed191ebd, type: 3}
   - {fileID: 6127198784939167874, guid: c55c5d8fa5c165647bb153608420db2c, type: 3}
   - {fileID: 6127198784939167874, guid: 17f601c6317339146b56a7896b85b905, type: 3}
+--- !u!114 &4307914313655065338
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2544141915458788154}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55889f364545edf4abff2c14ec761408, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2671784433890827541
 GameObject:
   m_ObjectHideFlags: 0
@@ -922,9 +1143,10 @@ GameObject:
   m_Component:
   - component: {fileID: 2293707538556726614}
   - component: {fileID: 1406658191079693791}
+  - component: {fileID: 1073760476294040284}
   m_Layer: 9
   m_Name: SpawnFloor (32)
-  m_TagString: Untagged
+  m_TagString: SpawnFloor
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -960,6 +1182,18 @@ MonoBehaviour:
   - {fileID: 6127198784939167874, guid: 781caf5292ea8dd4585b20daed191ebd, type: 3}
   - {fileID: 6127198784939167874, guid: c55c5d8fa5c165647bb153608420db2c, type: 3}
   - {fileID: 6127198784939167874, guid: 17f601c6317339146b56a7896b85b905, type: 3}
+--- !u!114 &1073760476294040284
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2671784433890827541}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55889f364545edf4abff2c14ec761408, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2681991276378320510
 GameObject:
   m_ObjectHideFlags: 0
@@ -970,9 +1204,10 @@ GameObject:
   m_Component:
   - component: {fileID: 4982336388071939946}
   - component: {fileID: 21928337798995426}
+  - component: {fileID: 9178087326861964304}
   m_Layer: 9
   m_Name: SpawnFloor (14)
-  m_TagString: Untagged
+  m_TagString: SpawnFloor
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1008,6 +1243,18 @@ MonoBehaviour:
   - {fileID: 6127198784939167874, guid: 781caf5292ea8dd4585b20daed191ebd, type: 3}
   - {fileID: 6127198784939167874, guid: c55c5d8fa5c165647bb153608420db2c, type: 3}
   - {fileID: 6127198784939167874, guid: 17f601c6317339146b56a7896b85b905, type: 3}
+--- !u!114 &9178087326861964304
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2681991276378320510}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55889f364545edf4abff2c14ec761408, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2756414065320544793
 GameObject:
   m_ObjectHideFlags: 0
@@ -1018,9 +1265,10 @@ GameObject:
   m_Component:
   - component: {fileID: 2597995779672989824}
   - component: {fileID: 1343229866865247233}
+  - component: {fileID: 4093746038813728768}
   m_Layer: 9
   m_Name: SpawnFloor (67)
-  m_TagString: Untagged
+  m_TagString: SpawnFloor
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1056,6 +1304,18 @@ MonoBehaviour:
   - {fileID: 6127198784939167874, guid: 781caf5292ea8dd4585b20daed191ebd, type: 3}
   - {fileID: 6127198784939167874, guid: c55c5d8fa5c165647bb153608420db2c, type: 3}
   - {fileID: 6127198784939167874, guid: 17f601c6317339146b56a7896b85b905, type: 3}
+--- !u!114 &4093746038813728768
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2756414065320544793}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55889f364545edf4abff2c14ec761408, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &3371788105145793088
 GameObject:
   m_ObjectHideFlags: 0
@@ -1066,9 +1326,10 @@ GameObject:
   m_Component:
   - component: {fileID: 1041839658371330877}
   - component: {fileID: 481294868671271386}
+  - component: {fileID: 8467143979642269326}
   m_Layer: 9
   m_Name: SpawnFloor (45)
-  m_TagString: Untagged
+  m_TagString: SpawnFloor
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1104,6 +1365,18 @@ MonoBehaviour:
   - {fileID: 6127198784939167874, guid: 781caf5292ea8dd4585b20daed191ebd, type: 3}
   - {fileID: 6127198784939167874, guid: c55c5d8fa5c165647bb153608420db2c, type: 3}
   - {fileID: 6127198784939167874, guid: 17f601c6317339146b56a7896b85b905, type: 3}
+--- !u!114 &8467143979642269326
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3371788105145793088}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55889f364545edf4abff2c14ec761408, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &3544429356042139122
 GameObject:
   m_ObjectHideFlags: 0
@@ -1114,9 +1387,10 @@ GameObject:
   m_Component:
   - component: {fileID: 6530034661826980537}
   - component: {fileID: 4611965660825493423}
+  - component: {fileID: 3020050043937942216}
   m_Layer: 9
   m_Name: SpawnFloor (34)
-  m_TagString: Untagged
+  m_TagString: SpawnFloor
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1152,6 +1426,18 @@ MonoBehaviour:
   - {fileID: 6127198784939167874, guid: 781caf5292ea8dd4585b20daed191ebd, type: 3}
   - {fileID: 6127198784939167874, guid: c55c5d8fa5c165647bb153608420db2c, type: 3}
   - {fileID: 6127198784939167874, guid: 17f601c6317339146b56a7896b85b905, type: 3}
+--- !u!114 &3020050043937942216
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3544429356042139122}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55889f364545edf4abff2c14ec761408, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &3566825812941487336
 GameObject:
   m_ObjectHideFlags: 0
@@ -1162,9 +1448,10 @@ GameObject:
   m_Component:
   - component: {fileID: 9109647561983374592}
   - component: {fileID: 8081177156460305513}
+  - component: {fileID: 8622567518939508028}
   m_Layer: 9
   m_Name: SpawnFloor (11)
-  m_TagString: Untagged
+  m_TagString: SpawnFloor
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1200,6 +1487,18 @@ MonoBehaviour:
   - {fileID: 6127198784939167874, guid: 781caf5292ea8dd4585b20daed191ebd, type: 3}
   - {fileID: 6127198784939167874, guid: c55c5d8fa5c165647bb153608420db2c, type: 3}
   - {fileID: 6127198784939167874, guid: 17f601c6317339146b56a7896b85b905, type: 3}
+--- !u!114 &8622567518939508028
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3566825812941487336}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55889f364545edf4abff2c14ec761408, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &3637179275907549368
 GameObject:
   m_ObjectHideFlags: 0
@@ -1210,9 +1509,10 @@ GameObject:
   m_Component:
   - component: {fileID: 6258405972261142558}
   - component: {fileID: 6900033556356323519}
+  - component: {fileID: 6785634980256883336}
   m_Layer: 9
   m_Name: SpawnFloor (26)
-  m_TagString: Untagged
+  m_TagString: SpawnFloor
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1248,6 +1548,18 @@ MonoBehaviour:
   - {fileID: 6127198784939167874, guid: 781caf5292ea8dd4585b20daed191ebd, type: 3}
   - {fileID: 6127198784939167874, guid: c55c5d8fa5c165647bb153608420db2c, type: 3}
   - {fileID: 6127198784939167874, guid: 17f601c6317339146b56a7896b85b905, type: 3}
+--- !u!114 &6785634980256883336
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3637179275907549368}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55889f364545edf4abff2c14ec761408, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &3740015844358249915
 GameObject:
   m_ObjectHideFlags: 0
@@ -1258,9 +1570,10 @@ GameObject:
   m_Component:
   - component: {fileID: 2369994533256692528}
   - component: {fileID: 8902950587797105242}
+  - component: {fileID: 2880124255271611229}
   m_Layer: 9
   m_Name: SpawnFloor (36)
-  m_TagString: Untagged
+  m_TagString: SpawnFloor
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1296,6 +1609,18 @@ MonoBehaviour:
   - {fileID: 6127198784939167874, guid: 781caf5292ea8dd4585b20daed191ebd, type: 3}
   - {fileID: 6127198784939167874, guid: c55c5d8fa5c165647bb153608420db2c, type: 3}
   - {fileID: 6127198784939167874, guid: 17f601c6317339146b56a7896b85b905, type: 3}
+--- !u!114 &2880124255271611229
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3740015844358249915}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55889f364545edf4abff2c14ec761408, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &3784192928913150162
 GameObject:
   m_ObjectHideFlags: 0
@@ -1306,9 +1631,10 @@ GameObject:
   m_Component:
   - component: {fileID: 6274333971818854233}
   - component: {fileID: 8194181378903359643}
+  - component: {fileID: 1882516610092836761}
   m_Layer: 9
   m_Name: SpawnFloor (30)
-  m_TagString: Untagged
+  m_TagString: SpawnFloor
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1344,6 +1670,18 @@ MonoBehaviour:
   - {fileID: 6127198784939167874, guid: 781caf5292ea8dd4585b20daed191ebd, type: 3}
   - {fileID: 6127198784939167874, guid: c55c5d8fa5c165647bb153608420db2c, type: 3}
   - {fileID: 6127198784939167874, guid: 17f601c6317339146b56a7896b85b905, type: 3}
+--- !u!114 &1882516610092836761
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3784192928913150162}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55889f364545edf4abff2c14ec761408, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &3844883133212981364
 GameObject:
   m_ObjectHideFlags: 0
@@ -1354,9 +1692,10 @@ GameObject:
   m_Component:
   - component: {fileID: 3454852940844732318}
   - component: {fileID: 95296661179303073}
+  - component: {fileID: 3555064177761392688}
   m_Layer: 9
   m_Name: SpawnFloor (43)
-  m_TagString: Untagged
+  m_TagString: SpawnFloor
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1392,6 +1731,18 @@ MonoBehaviour:
   - {fileID: 6127198784939167874, guid: 781caf5292ea8dd4585b20daed191ebd, type: 3}
   - {fileID: 6127198784939167874, guid: c55c5d8fa5c165647bb153608420db2c, type: 3}
   - {fileID: 6127198784939167874, guid: 17f601c6317339146b56a7896b85b905, type: 3}
+--- !u!114 &3555064177761392688
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3844883133212981364}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55889f364545edf4abff2c14ec761408, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &3888129762086025678
 GameObject:
   m_ObjectHideFlags: 0
@@ -1402,9 +1753,10 @@ GameObject:
   m_Component:
   - component: {fileID: 7417839229088070354}
   - component: {fileID: 4181503674438895741}
+  - component: {fileID: 1226208663242497364}
   m_Layer: 9
   m_Name: SpawnFloor (7)
-  m_TagString: Untagged
+  m_TagString: SpawnFloor
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1440,6 +1792,18 @@ MonoBehaviour:
   - {fileID: 6127198784939167874, guid: 781caf5292ea8dd4585b20daed191ebd, type: 3}
   - {fileID: 6127198784939167874, guid: c55c5d8fa5c165647bb153608420db2c, type: 3}
   - {fileID: 6127198784939167874, guid: 17f601c6317339146b56a7896b85b905, type: 3}
+--- !u!114 &1226208663242497364
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3888129762086025678}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55889f364545edf4abff2c14ec761408, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &3955914531018160122
 GameObject:
   m_ObjectHideFlags: 0
@@ -1450,9 +1814,10 @@ GameObject:
   m_Component:
   - component: {fileID: 267371613315138479}
   - component: {fileID: 7057940619256495281}
+  - component: {fileID: 3669577153822798119}
   m_Layer: 9
   m_Name: SpawnFloor (25)
-  m_TagString: Untagged
+  m_TagString: SpawnFloor
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1488,6 +1853,18 @@ MonoBehaviour:
   - {fileID: 6127198784939167874, guid: 781caf5292ea8dd4585b20daed191ebd, type: 3}
   - {fileID: 6127198784939167874, guid: c55c5d8fa5c165647bb153608420db2c, type: 3}
   - {fileID: 6127198784939167874, guid: 17f601c6317339146b56a7896b85b905, type: 3}
+--- !u!114 &3669577153822798119
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3955914531018160122}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55889f364545edf4abff2c14ec761408, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &4020809512799827680
 GameObject:
   m_ObjectHideFlags: 0
@@ -1498,9 +1875,10 @@ GameObject:
   m_Component:
   - component: {fileID: 6776803821768733925}
   - component: {fileID: 97216286158728345}
+  - component: {fileID: 3757489823515364793}
   m_Layer: 9
   m_Name: SpawnFloor (61)
-  m_TagString: Untagged
+  m_TagString: SpawnFloor
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1536,6 +1914,18 @@ MonoBehaviour:
   - {fileID: 6127198784939167874, guid: 781caf5292ea8dd4585b20daed191ebd, type: 3}
   - {fileID: 6127198784939167874, guid: c55c5d8fa5c165647bb153608420db2c, type: 3}
   - {fileID: 6127198784939167874, guid: 17f601c6317339146b56a7896b85b905, type: 3}
+--- !u!114 &3757489823515364793
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4020809512799827680}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55889f364545edf4abff2c14ec761408, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &4061349283032934400
 GameObject:
   m_ObjectHideFlags: 0
@@ -1546,9 +1936,10 @@ GameObject:
   m_Component:
   - component: {fileID: 1316173993566575010}
   - component: {fileID: 4110507786879135197}
+  - component: {fileID: 6976792533735077842}
   m_Layer: 9
   m_Name: SpawnFloor (52)
-  m_TagString: Untagged
+  m_TagString: SpawnFloor
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1584,6 +1975,18 @@ MonoBehaviour:
   - {fileID: 6127198784939167874, guid: 781caf5292ea8dd4585b20daed191ebd, type: 3}
   - {fileID: 6127198784939167874, guid: c55c5d8fa5c165647bb153608420db2c, type: 3}
   - {fileID: 6127198784939167874, guid: 17f601c6317339146b56a7896b85b905, type: 3}
+--- !u!114 &6976792533735077842
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4061349283032934400}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55889f364545edf4abff2c14ec761408, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &4200381735089986167
 GameObject:
   m_ObjectHideFlags: 0
@@ -1642,9 +2045,10 @@ GameObject:
   m_Component:
   - component: {fileID: 1353620380174217462}
   - component: {fileID: 6117629052063513172}
+  - component: {fileID: 1949256736057334513}
   m_Layer: 9
   m_Name: SpawnFloor (63)
-  m_TagString: Untagged
+  m_TagString: SpawnFloor
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1680,6 +2084,18 @@ MonoBehaviour:
   - {fileID: 6127198784939167874, guid: 781caf5292ea8dd4585b20daed191ebd, type: 3}
   - {fileID: 6127198784939167874, guid: c55c5d8fa5c165647bb153608420db2c, type: 3}
   - {fileID: 6127198784939167874, guid: 17f601c6317339146b56a7896b85b905, type: 3}
+--- !u!114 &1949256736057334513
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4261510196057278412}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55889f364545edf4abff2c14ec761408, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &4374389363198455936
 GameObject:
   m_ObjectHideFlags: 0
@@ -1690,9 +2106,10 @@ GameObject:
   m_Component:
   - component: {fileID: 5339498231529761649}
   - component: {fileID: 6884892553400338999}
+  - component: {fileID: 2883276925758804809}
   m_Layer: 9
   m_Name: SpawnFloor (41)
-  m_TagString: Untagged
+  m_TagString: SpawnFloor
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1728,6 +2145,18 @@ MonoBehaviour:
   - {fileID: 6127198784939167874, guid: 781caf5292ea8dd4585b20daed191ebd, type: 3}
   - {fileID: 6127198784939167874, guid: c55c5d8fa5c165647bb153608420db2c, type: 3}
   - {fileID: 6127198784939167874, guid: 17f601c6317339146b56a7896b85b905, type: 3}
+--- !u!114 &2883276925758804809
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4374389363198455936}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55889f364545edf4abff2c14ec761408, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &4525034839476050588
 GameObject:
   m_ObjectHideFlags: 0
@@ -1738,9 +2167,10 @@ GameObject:
   m_Component:
   - component: {fileID: 2395864428385503546}
   - component: {fileID: 6932878464757521590}
+  - component: {fileID: 5085750143856466894}
   m_Layer: 9
   m_Name: SpawnFloor (8)
-  m_TagString: Untagged
+  m_TagString: SpawnFloor
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1776,6 +2206,18 @@ MonoBehaviour:
   - {fileID: 6127198784939167874, guid: 781caf5292ea8dd4585b20daed191ebd, type: 3}
   - {fileID: 6127198784939167874, guid: c55c5d8fa5c165647bb153608420db2c, type: 3}
   - {fileID: 6127198784939167874, guid: 17f601c6317339146b56a7896b85b905, type: 3}
+--- !u!114 &5085750143856466894
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4525034839476050588}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55889f364545edf4abff2c14ec761408, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &4675960436216539206
 GameObject:
   m_ObjectHideFlags: 0
@@ -1786,9 +2228,10 @@ GameObject:
   m_Component:
   - component: {fileID: 873835501808136963}
   - component: {fileID: 3742936154659237607}
+  - component: {fileID: 6982035803666994934}
   m_Layer: 9
   m_Name: SpawnFloor (50)
-  m_TagString: Untagged
+  m_TagString: SpawnFloor
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1824,6 +2267,18 @@ MonoBehaviour:
   - {fileID: 6127198784939167874, guid: 781caf5292ea8dd4585b20daed191ebd, type: 3}
   - {fileID: 6127198784939167874, guid: c55c5d8fa5c165647bb153608420db2c, type: 3}
   - {fileID: 6127198784939167874, guid: 17f601c6317339146b56a7896b85b905, type: 3}
+--- !u!114 &6982035803666994934
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4675960436216539206}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55889f364545edf4abff2c14ec761408, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &4685364290263856162
 GameObject:
   m_ObjectHideFlags: 0
@@ -1834,9 +2289,10 @@ GameObject:
   m_Component:
   - component: {fileID: 1169096169903816585}
   - component: {fileID: 6255692834668599213}
+  - component: {fileID: 1769428881888071930}
   m_Layer: 9
   m_Name: SpawnFloor (19)
-  m_TagString: Untagged
+  m_TagString: SpawnFloor
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1872,6 +2328,18 @@ MonoBehaviour:
   - {fileID: 6127198784939167874, guid: 781caf5292ea8dd4585b20daed191ebd, type: 3}
   - {fileID: 6127198784939167874, guid: c55c5d8fa5c165647bb153608420db2c, type: 3}
   - {fileID: 6127198784939167874, guid: 17f601c6317339146b56a7896b85b905, type: 3}
+--- !u!114 &1769428881888071930
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4685364290263856162}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55889f364545edf4abff2c14ec761408, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &4846269730939795149
 GameObject:
   m_ObjectHideFlags: 0
@@ -1882,9 +2350,10 @@ GameObject:
   m_Component:
   - component: {fileID: 2634095830065393812}
   - component: {fileID: 3284477603038951334}
+  - component: {fileID: 2325652235928906609}
   m_Layer: 9
   m_Name: SpawnFloor (49)
-  m_TagString: Untagged
+  m_TagString: SpawnFloor
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1920,6 +2389,18 @@ MonoBehaviour:
   - {fileID: 6127198784939167874, guid: 781caf5292ea8dd4585b20daed191ebd, type: 3}
   - {fileID: 6127198784939167874, guid: c55c5d8fa5c165647bb153608420db2c, type: 3}
   - {fileID: 6127198784939167874, guid: 17f601c6317339146b56a7896b85b905, type: 3}
+--- !u!114 &2325652235928906609
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4846269730939795149}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55889f364545edf4abff2c14ec761408, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &4913722111790382749
 GameObject:
   m_ObjectHideFlags: 0
@@ -1930,9 +2411,10 @@ GameObject:
   m_Component:
   - component: {fileID: 7543247557651849401}
   - component: {fileID: 6172321093314674620}
+  - component: {fileID: 5165977343759688025}
   m_Layer: 9
   m_Name: SpawnFloor (9)
-  m_TagString: Untagged
+  m_TagString: SpawnFloor
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1968,6 +2450,18 @@ MonoBehaviour:
   - {fileID: 6127198784939167874, guid: 781caf5292ea8dd4585b20daed191ebd, type: 3}
   - {fileID: 6127198784939167874, guid: c55c5d8fa5c165647bb153608420db2c, type: 3}
   - {fileID: 6127198784939167874, guid: 17f601c6317339146b56a7896b85b905, type: 3}
+--- !u!114 &5165977343759688025
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4913722111790382749}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55889f364545edf4abff2c14ec761408, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &4973749819440737527
 GameObject:
   m_ObjectHideFlags: 0
@@ -2026,9 +2520,10 @@ GameObject:
   m_Component:
   - component: {fileID: 8293458215937080040}
   - component: {fileID: 4639508688729542611}
+  - component: {fileID: 8748344366048836512}
   m_Layer: 9
   m_Name: SpawnFloor (18)
-  m_TagString: Untagged
+  m_TagString: SpawnFloor
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2064,6 +2559,18 @@ MonoBehaviour:
   - {fileID: 6127198784939167874, guid: 781caf5292ea8dd4585b20daed191ebd, type: 3}
   - {fileID: 6127198784939167874, guid: c55c5d8fa5c165647bb153608420db2c, type: 3}
   - {fileID: 6127198784939167874, guid: 17f601c6317339146b56a7896b85b905, type: 3}
+--- !u!114 &8748344366048836512
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5011572121703372583}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55889f364545edf4abff2c14ec761408, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &5321319609809771199
 GameObject:
   m_ObjectHideFlags: 0
@@ -2074,9 +2581,10 @@ GameObject:
   m_Component:
   - component: {fileID: 3280292587892796437}
   - component: {fileID: 4563085951877689085}
+  - component: {fileID: 5946480680312877708}
   m_Layer: 9
   m_Name: SpawnFloor (58)
-  m_TagString: Untagged
+  m_TagString: SpawnFloor
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2112,6 +2620,18 @@ MonoBehaviour:
   - {fileID: 6127198784939167874, guid: 781caf5292ea8dd4585b20daed191ebd, type: 3}
   - {fileID: 6127198784939167874, guid: c55c5d8fa5c165647bb153608420db2c, type: 3}
   - {fileID: 6127198784939167874, guid: 17f601c6317339146b56a7896b85b905, type: 3}
+--- !u!114 &5946480680312877708
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5321319609809771199}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55889f364545edf4abff2c14ec761408, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &5344069960453328334
 GameObject:
   m_ObjectHideFlags: 0
@@ -2122,9 +2642,10 @@ GameObject:
   m_Component:
   - component: {fileID: 1193598040720538309}
   - component: {fileID: 809027112124243626}
+  - component: {fileID: 392277238659543237}
   m_Layer: 9
   m_Name: SpawnFloor (21)
-  m_TagString: Untagged
+  m_TagString: SpawnFloor
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2160,6 +2681,18 @@ MonoBehaviour:
   - {fileID: 6127198784939167874, guid: 781caf5292ea8dd4585b20daed191ebd, type: 3}
   - {fileID: 6127198784939167874, guid: c55c5d8fa5c165647bb153608420db2c, type: 3}
   - {fileID: 6127198784939167874, guid: 17f601c6317339146b56a7896b85b905, type: 3}
+--- !u!114 &392277238659543237
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5344069960453328334}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55889f364545edf4abff2c14ec761408, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &5541643085178662619
 GameObject:
   m_ObjectHideFlags: 0
@@ -2170,9 +2703,10 @@ GameObject:
   m_Component:
   - component: {fileID: 6788817692267334689}
   - component: {fileID: 5348807740172724469}
+  - component: {fileID: 5279000386454324846}
   m_Layer: 9
   m_Name: SpawnFloor (57)
-  m_TagString: Untagged
+  m_TagString: SpawnFloor
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2208,6 +2742,18 @@ MonoBehaviour:
   - {fileID: 6127198784939167874, guid: 781caf5292ea8dd4585b20daed191ebd, type: 3}
   - {fileID: 6127198784939167874, guid: c55c5d8fa5c165647bb153608420db2c, type: 3}
   - {fileID: 6127198784939167874, guid: 17f601c6317339146b56a7896b85b905, type: 3}
+--- !u!114 &5279000386454324846
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5541643085178662619}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55889f364545edf4abff2c14ec761408, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &5605468869566427771
 GameObject:
   m_ObjectHideFlags: 0
@@ -2218,9 +2764,10 @@ GameObject:
   m_Component:
   - component: {fileID: 4259778555170301102}
   - component: {fileID: 7602533185952058585}
+  - component: {fileID: 6697799398024619816}
   m_Layer: 9
   m_Name: SpawnFloor (37)
-  m_TagString: Untagged
+  m_TagString: SpawnFloor
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2256,6 +2803,18 @@ MonoBehaviour:
   - {fileID: 6127198784939167874, guid: 781caf5292ea8dd4585b20daed191ebd, type: 3}
   - {fileID: 6127198784939167874, guid: c55c5d8fa5c165647bb153608420db2c, type: 3}
   - {fileID: 6127198784939167874, guid: 17f601c6317339146b56a7896b85b905, type: 3}
+--- !u!114 &6697799398024619816
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5605468869566427771}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55889f364545edf4abff2c14ec761408, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &5617598434608329211
 GameObject:
   m_ObjectHideFlags: 0
@@ -2266,9 +2825,10 @@ GameObject:
   m_Component:
   - component: {fileID: 6556542631834367563}
   - component: {fileID: 4401838998249155731}
+  - component: {fileID: 5669112574565112687}
   m_Layer: 9
   m_Name: SpawnFloor (65)
-  m_TagString: Untagged
+  m_TagString: SpawnFloor
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2304,6 +2864,18 @@ MonoBehaviour:
   - {fileID: 6127198784939167874, guid: 781caf5292ea8dd4585b20daed191ebd, type: 3}
   - {fileID: 6127198784939167874, guid: c55c5d8fa5c165647bb153608420db2c, type: 3}
   - {fileID: 6127198784939167874, guid: 17f601c6317339146b56a7896b85b905, type: 3}
+--- !u!114 &5669112574565112687
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5617598434608329211}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55889f364545edf4abff2c14ec761408, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &5684671564886687991
 GameObject:
   m_ObjectHideFlags: 0
@@ -2314,9 +2886,10 @@ GameObject:
   m_Component:
   - component: {fileID: 1886384416018883638}
   - component: {fileID: 7307385626817860016}
+  - component: {fileID: 1000679976032201588}
   m_Layer: 9
   m_Name: SpawnFloor (28)
-  m_TagString: Untagged
+  m_TagString: SpawnFloor
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2352,6 +2925,18 @@ MonoBehaviour:
   - {fileID: 6127198784939167874, guid: 781caf5292ea8dd4585b20daed191ebd, type: 3}
   - {fileID: 6127198784939167874, guid: c55c5d8fa5c165647bb153608420db2c, type: 3}
   - {fileID: 6127198784939167874, guid: 17f601c6317339146b56a7896b85b905, type: 3}
+--- !u!114 &1000679976032201588
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5684671564886687991}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55889f364545edf4abff2c14ec761408, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &5701550649528813137
 GameObject:
   m_ObjectHideFlags: 0
@@ -2362,9 +2947,10 @@ GameObject:
   m_Component:
   - component: {fileID: 6816129699651442499}
   - component: {fileID: 8683469396738602919}
+  - component: {fileID: 6740524019728045657}
   m_Layer: 9
   m_Name: SpawnFloor (46)
-  m_TagString: Untagged
+  m_TagString: SpawnFloor
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2400,6 +2986,18 @@ MonoBehaviour:
   - {fileID: 6127198784939167874, guid: 781caf5292ea8dd4585b20daed191ebd, type: 3}
   - {fileID: 6127198784939167874, guid: c55c5d8fa5c165647bb153608420db2c, type: 3}
   - {fileID: 6127198784939167874, guid: 17f601c6317339146b56a7896b85b905, type: 3}
+--- !u!114 &6740524019728045657
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5701550649528813137}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55889f364545edf4abff2c14ec761408, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &5855762989996993772
 GameObject:
   m_ObjectHideFlags: 0
@@ -2410,9 +3008,10 @@ GameObject:
   m_Component:
   - component: {fileID: 10502078753682799}
   - component: {fileID: 1043689910423820729}
+  - component: {fileID: 5792629253417640684}
   m_Layer: 9
   m_Name: SpawnFloor (62)
-  m_TagString: Untagged
+  m_TagString: SpawnFloor
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2448,6 +3047,18 @@ MonoBehaviour:
   - {fileID: 6127198784939167874, guid: 781caf5292ea8dd4585b20daed191ebd, type: 3}
   - {fileID: 6127198784939167874, guid: c55c5d8fa5c165647bb153608420db2c, type: 3}
   - {fileID: 6127198784939167874, guid: 17f601c6317339146b56a7896b85b905, type: 3}
+--- !u!114 &5792629253417640684
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5855762989996993772}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55889f364545edf4abff2c14ec761408, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &6032195444576669899
 GameObject:
   m_ObjectHideFlags: 0
@@ -2987,6 +3598,7 @@ GameObject:
   - component: {fileID: 6032195445865010826}
   - component: {fileID: 950651119795109615}
   - component: {fileID: 7793648027163963288}
+  - component: {fileID: 3478877731667593330}
   m_Layer: 9
   m_Name: RoomDU 1
   m_TagString: Untagged
@@ -3148,6 +3760,25 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &3478877731667593330
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6032195445865010827}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b27c471aa2520246ac5fa7d84ee73cb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  monsterPrefab: {fileID: 5758215062501307732, guid: b7f2ebf2430c17142ac084fa808df36f, type: 3}
+  coinPrefab: {fileID: 6127198784939167874, guid: 9f7f98bd450a60a4ba30ba85d247cc2a, type: 3}
+  chestPrefab: {fileID: 5090382814065189744, guid: 21366a06d31716d4a808839b5915ea65, type: 3}
+  minMonsters: 0
+  maxMonsters: 3
+  minCoins: 0
+  maxCoins: 3
 --- !u!1 &6032195445865987172
 GameObject:
   m_ObjectHideFlags: 0
@@ -3974,9 +4605,10 @@ GameObject:
   m_Component:
   - component: {fileID: 8506401994828502215}
   - component: {fileID: 4303731702753981922}
+  - component: {fileID: 4510910887227325696}
   m_Layer: 9
   m_Name: SpawnFloor (60)
-  m_TagString: Untagged
+  m_TagString: SpawnFloor
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4012,6 +4644,18 @@ MonoBehaviour:
   - {fileID: 6127198784939167874, guid: 781caf5292ea8dd4585b20daed191ebd, type: 3}
   - {fileID: 6127198784939167874, guid: c55c5d8fa5c165647bb153608420db2c, type: 3}
   - {fileID: 6127198784939167874, guid: 17f601c6317339146b56a7896b85b905, type: 3}
+--- !u!114 &4510910887227325696
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6089581301675652177}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55889f364545edf4abff2c14ec761408, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &6146493449715722521
 GameObject:
   m_ObjectHideFlags: 0
@@ -4022,9 +4666,10 @@ GameObject:
   m_Component:
   - component: {fileID: 4529586470107873739}
   - component: {fileID: 25513592090250001}
+  - component: {fileID: 8386665909210584826}
   m_Layer: 9
   m_Name: SpawnFloor (5)
-  m_TagString: Untagged
+  m_TagString: SpawnFloor
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4060,6 +4705,18 @@ MonoBehaviour:
   - {fileID: 6127198784939167874, guid: 781caf5292ea8dd4585b20daed191ebd, type: 3}
   - {fileID: 6127198784939167874, guid: c55c5d8fa5c165647bb153608420db2c, type: 3}
   - {fileID: 6127198784939167874, guid: 17f601c6317339146b56a7896b85b905, type: 3}
+--- !u!114 &8386665909210584826
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6146493449715722521}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55889f364545edf4abff2c14ec761408, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &6379238807826560786
 GameObject:
   m_ObjectHideFlags: 0
@@ -4070,9 +4727,10 @@ GameObject:
   m_Component:
   - component: {fileID: 5124354218231244110}
   - component: {fileID: 6512019845343902472}
+  - component: {fileID: 1656491507386967648}
   m_Layer: 9
   m_Name: SpawnFloor (22)
-  m_TagString: Untagged
+  m_TagString: SpawnFloor
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4108,6 +4766,18 @@ MonoBehaviour:
   - {fileID: 6127198784939167874, guid: 781caf5292ea8dd4585b20daed191ebd, type: 3}
   - {fileID: 6127198784939167874, guid: c55c5d8fa5c165647bb153608420db2c, type: 3}
   - {fileID: 6127198784939167874, guid: 17f601c6317339146b56a7896b85b905, type: 3}
+--- !u!114 &1656491507386967648
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6379238807826560786}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55889f364545edf4abff2c14ec761408, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &6543235659094748635
 GameObject:
   m_ObjectHideFlags: 0
@@ -4118,9 +4788,10 @@ GameObject:
   m_Component:
   - component: {fileID: 2775999836713294030}
   - component: {fileID: 4124264816684528979}
+  - component: {fileID: 1874358884433887518}
   m_Layer: 9
   m_Name: SpawnFloor (4)
-  m_TagString: Untagged
+  m_TagString: SpawnFloor
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4156,6 +4827,18 @@ MonoBehaviour:
   - {fileID: 6127198784939167874, guid: 781caf5292ea8dd4585b20daed191ebd, type: 3}
   - {fileID: 6127198784939167874, guid: c55c5d8fa5c165647bb153608420db2c, type: 3}
   - {fileID: 6127198784939167874, guid: 17f601c6317339146b56a7896b85b905, type: 3}
+--- !u!114 &1874358884433887518
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6543235659094748635}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55889f364545edf4abff2c14ec761408, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &6582886980370745584
 GameObject:
   m_ObjectHideFlags: 0
@@ -4166,9 +4849,10 @@ GameObject:
   m_Component:
   - component: {fileID: 6390060545034114736}
   - component: {fileID: 5069026669869335358}
+  - component: {fileID: 303860696344321666}
   m_Layer: 9
   m_Name: SpawnFloor (42)
-  m_TagString: Untagged
+  m_TagString: SpawnFloor
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4204,6 +4888,18 @@ MonoBehaviour:
   - {fileID: 6127198784939167874, guid: 781caf5292ea8dd4585b20daed191ebd, type: 3}
   - {fileID: 6127198784939167874, guid: c55c5d8fa5c165647bb153608420db2c, type: 3}
   - {fileID: 6127198784939167874, guid: 17f601c6317339146b56a7896b85b905, type: 3}
+--- !u!114 &303860696344321666
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6582886980370745584}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55889f364545edf4abff2c14ec761408, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &6695634092379945148
 GameObject:
   m_ObjectHideFlags: 0
@@ -4214,9 +4910,10 @@ GameObject:
   m_Component:
   - component: {fileID: 4926565854064921588}
   - component: {fileID: 6509919079239232105}
+  - component: {fileID: 8427502732952597364}
   m_Layer: 9
   m_Name: SpawnFloor (2)
-  m_TagString: Untagged
+  m_TagString: SpawnFloor
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4252,6 +4949,18 @@ MonoBehaviour:
   - {fileID: 6127198784939167874, guid: 781caf5292ea8dd4585b20daed191ebd, type: 3}
   - {fileID: 6127198784939167874, guid: c55c5d8fa5c165647bb153608420db2c, type: 3}
   - {fileID: 6127198784939167874, guid: 17f601c6317339146b56a7896b85b905, type: 3}
+--- !u!114 &8427502732952597364
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6695634092379945148}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55889f364545edf4abff2c14ec761408, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &6919643612166051078
 GameObject:
   m_ObjectHideFlags: 0
@@ -4262,9 +4971,10 @@ GameObject:
   m_Component:
   - component: {fileID: 7194612251877761086}
   - component: {fileID: 270966640329740833}
+  - component: {fileID: 938593341130155733}
   m_Layer: 9
   m_Name: SpawnFloor (38)
-  m_TagString: Untagged
+  m_TagString: SpawnFloor
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4300,6 +5010,18 @@ MonoBehaviour:
   - {fileID: 6127198784939167874, guid: 781caf5292ea8dd4585b20daed191ebd, type: 3}
   - {fileID: 6127198784939167874, guid: c55c5d8fa5c165647bb153608420db2c, type: 3}
   - {fileID: 6127198784939167874, guid: 17f601c6317339146b56a7896b85b905, type: 3}
+--- !u!114 &938593341130155733
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6919643612166051078}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55889f364545edf4abff2c14ec761408, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &7078632349106742888
 GameObject:
   m_ObjectHideFlags: 0
@@ -4310,9 +5032,10 @@ GameObject:
   m_Component:
   - component: {fileID: 372059125862919846}
   - component: {fileID: 4528478046627010719}
+  - component: {fileID: 7830896223397325855}
   m_Layer: 9
   m_Name: SpawnFloor (31)
-  m_TagString: Untagged
+  m_TagString: SpawnFloor
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4348,6 +5071,18 @@ MonoBehaviour:
   - {fileID: 6127198784939167874, guid: 781caf5292ea8dd4585b20daed191ebd, type: 3}
   - {fileID: 6127198784939167874, guid: c55c5d8fa5c165647bb153608420db2c, type: 3}
   - {fileID: 6127198784939167874, guid: 17f601c6317339146b56a7896b85b905, type: 3}
+--- !u!114 &7830896223397325855
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7078632349106742888}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55889f364545edf4abff2c14ec761408, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &7199165979986741849
 GameObject:
   m_ObjectHideFlags: 0
@@ -4358,9 +5093,10 @@ GameObject:
   m_Component:
   - component: {fileID: 1372975577163522366}
   - component: {fileID: 6871802697864319883}
+  - component: {fileID: 6391536834145794267}
   m_Layer: 9
   m_Name: SpawnFloor (27)
-  m_TagString: Untagged
+  m_TagString: SpawnFloor
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4396,6 +5132,18 @@ MonoBehaviour:
   - {fileID: 6127198784939167874, guid: 781caf5292ea8dd4585b20daed191ebd, type: 3}
   - {fileID: 6127198784939167874, guid: c55c5d8fa5c165647bb153608420db2c, type: 3}
   - {fileID: 6127198784939167874, guid: 17f601c6317339146b56a7896b85b905, type: 3}
+--- !u!114 &6391536834145794267
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7199165979986741849}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55889f364545edf4abff2c14ec761408, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &7219713009399048433
 GameObject:
   m_ObjectHideFlags: 0
@@ -4406,9 +5154,10 @@ GameObject:
   m_Component:
   - component: {fileID: 978025611389358860}
   - component: {fileID: 8961840452173439244}
+  - component: {fileID: 1385418427588212603}
   m_Layer: 9
   m_Name: SpawnFloor (16)
-  m_TagString: Untagged
+  m_TagString: SpawnFloor
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4444,6 +5193,18 @@ MonoBehaviour:
   - {fileID: 6127198784939167874, guid: 781caf5292ea8dd4585b20daed191ebd, type: 3}
   - {fileID: 6127198784939167874, guid: c55c5d8fa5c165647bb153608420db2c, type: 3}
   - {fileID: 6127198784939167874, guid: 17f601c6317339146b56a7896b85b905, type: 3}
+--- !u!114 &1385418427588212603
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7219713009399048433}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55889f364545edf4abff2c14ec761408, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &7363735558369660246
 GameObject:
   m_ObjectHideFlags: 0
@@ -4454,9 +5215,10 @@ GameObject:
   m_Component:
   - component: {fileID: 5341189720673883123}
   - component: {fileID: 8493886756223198833}
+  - component: {fileID: 368461926291172932}
   m_Layer: 9
   m_Name: SpawnFloor (44)
-  m_TagString: Untagged
+  m_TagString: SpawnFloor
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4492,6 +5254,18 @@ MonoBehaviour:
   - {fileID: 6127198784939167874, guid: 781caf5292ea8dd4585b20daed191ebd, type: 3}
   - {fileID: 6127198784939167874, guid: c55c5d8fa5c165647bb153608420db2c, type: 3}
   - {fileID: 6127198784939167874, guid: 17f601c6317339146b56a7896b85b905, type: 3}
+--- !u!114 &368461926291172932
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7363735558369660246}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55889f364545edf4abff2c14ec761408, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &7381166187280478165
 GameObject:
   m_ObjectHideFlags: 0
@@ -4502,9 +5276,10 @@ GameObject:
   m_Component:
   - component: {fileID: 3144601701034711789}
   - component: {fileID: 2727625834180161584}
+  - component: {fileID: 1940771183617705438}
   m_Layer: 9
   m_Name: SpawnFloor (59)
-  m_TagString: Untagged
+  m_TagString: SpawnFloor
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4540,6 +5315,18 @@ MonoBehaviour:
   - {fileID: 6127198784939167874, guid: 781caf5292ea8dd4585b20daed191ebd, type: 3}
   - {fileID: 6127198784939167874, guid: c55c5d8fa5c165647bb153608420db2c, type: 3}
   - {fileID: 6127198784939167874, guid: 17f601c6317339146b56a7896b85b905, type: 3}
+--- !u!114 &1940771183617705438
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7381166187280478165}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55889f364545edf4abff2c14ec761408, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &7457459016719682663
 GameObject:
   m_ObjectHideFlags: 0
@@ -4550,9 +5337,10 @@ GameObject:
   m_Component:
   - component: {fileID: 7902445104335938871}
   - component: {fileID: 7541818634370206171}
+  - component: {fileID: 3392147483132134499}
   m_Layer: 9
   m_Name: SpawnFloor
-  m_TagString: Untagged
+  m_TagString: SpawnFloor
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4588,6 +5376,18 @@ MonoBehaviour:
   - {fileID: 6127198784939167874, guid: 781caf5292ea8dd4585b20daed191ebd, type: 3}
   - {fileID: 6127198784939167874, guid: c55c5d8fa5c165647bb153608420db2c, type: 3}
   - {fileID: 6127198784939167874, guid: 17f601c6317339146b56a7896b85b905, type: 3}
+--- !u!114 &3392147483132134499
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7457459016719682663}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55889f364545edf4abff2c14ec761408, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &7592150064789211465
 GameObject:
   m_ObjectHideFlags: 0
@@ -4598,9 +5398,10 @@ GameObject:
   m_Component:
   - component: {fileID: 3275181482278985230}
   - component: {fileID: 3834614217579358097}
+  - component: {fileID: 5559518727411987444}
   m_Layer: 9
   m_Name: SpawnFloor (55)
-  m_TagString: Untagged
+  m_TagString: SpawnFloor
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4636,6 +5437,18 @@ MonoBehaviour:
   - {fileID: 6127198784939167874, guid: 781caf5292ea8dd4585b20daed191ebd, type: 3}
   - {fileID: 6127198784939167874, guid: c55c5d8fa5c165647bb153608420db2c, type: 3}
   - {fileID: 6127198784939167874, guid: 17f601c6317339146b56a7896b85b905, type: 3}
+--- !u!114 &5559518727411987444
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7592150064789211465}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55889f364545edf4abff2c14ec761408, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &7674483102734818271
 GameObject:
   m_ObjectHideFlags: 0
@@ -4646,9 +5459,10 @@ GameObject:
   m_Component:
   - component: {fileID: 5065354855940352964}
   - component: {fileID: 7698492050832467775}
+  - component: {fileID: 1350197591512437520}
   m_Layer: 9
   m_Name: SpawnFloor (3)
-  m_TagString: Untagged
+  m_TagString: SpawnFloor
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4684,6 +5498,18 @@ MonoBehaviour:
   - {fileID: 6127198784939167874, guid: 781caf5292ea8dd4585b20daed191ebd, type: 3}
   - {fileID: 6127198784939167874, guid: c55c5d8fa5c165647bb153608420db2c, type: 3}
   - {fileID: 6127198784939167874, guid: 17f601c6317339146b56a7896b85b905, type: 3}
+--- !u!114 &1350197591512437520
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7674483102734818271}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55889f364545edf4abff2c14ec761408, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &7770050252377371105
 GameObject:
   m_ObjectHideFlags: 0
@@ -4694,9 +5520,10 @@ GameObject:
   m_Component:
   - component: {fileID: 696104827779981556}
   - component: {fileID: 2551585096452966614}
+  - component: {fileID: 7830078966166030864}
   m_Layer: 9
   m_Name: SpawnFloor (47)
-  m_TagString: Untagged
+  m_TagString: SpawnFloor
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4732,6 +5559,18 @@ MonoBehaviour:
   - {fileID: 6127198784939167874, guid: 781caf5292ea8dd4585b20daed191ebd, type: 3}
   - {fileID: 6127198784939167874, guid: c55c5d8fa5c165647bb153608420db2c, type: 3}
   - {fileID: 6127198784939167874, guid: 17f601c6317339146b56a7896b85b905, type: 3}
+--- !u!114 &7830078966166030864
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7770050252377371105}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55889f364545edf4abff2c14ec761408, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &7898580467826094181
 GameObject:
   m_ObjectHideFlags: 0
@@ -4742,9 +5581,10 @@ GameObject:
   m_Component:
   - component: {fileID: 2823026949107808270}
   - component: {fileID: 3404624663383366424}
+  - component: {fileID: 697232716301229060}
   m_Layer: 9
   m_Name: SpawnFloor (48)
-  m_TagString: Untagged
+  m_TagString: SpawnFloor
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4780,6 +5620,18 @@ MonoBehaviour:
   - {fileID: 6127198784939167874, guid: 781caf5292ea8dd4585b20daed191ebd, type: 3}
   - {fileID: 6127198784939167874, guid: c55c5d8fa5c165647bb153608420db2c, type: 3}
   - {fileID: 6127198784939167874, guid: 17f601c6317339146b56a7896b85b905, type: 3}
+--- !u!114 &697232716301229060
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7898580467826094181}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55889f364545edf4abff2c14ec761408, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &8120647932653431985
 GameObject:
   m_ObjectHideFlags: 0
@@ -4790,9 +5642,10 @@ GameObject:
   m_Component:
   - component: {fileID: 4582960656548452666}
   - component: {fileID: 1148798554317811121}
+  - component: {fileID: 5742913400592381320}
   m_Layer: 9
   m_Name: SpawnFloor (13)
-  m_TagString: Untagged
+  m_TagString: SpawnFloor
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4828,6 +5681,18 @@ MonoBehaviour:
   - {fileID: 6127198784939167874, guid: 781caf5292ea8dd4585b20daed191ebd, type: 3}
   - {fileID: 6127198784939167874, guid: c55c5d8fa5c165647bb153608420db2c, type: 3}
   - {fileID: 6127198784939167874, guid: 17f601c6317339146b56a7896b85b905, type: 3}
+--- !u!114 &5742913400592381320
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8120647932653431985}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55889f364545edf4abff2c14ec761408, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &8351430056885532322
 GameObject:
   m_ObjectHideFlags: 0
@@ -4838,9 +5703,10 @@ GameObject:
   m_Component:
   - component: {fileID: 6377130375204126676}
   - component: {fileID: 6490031660175221868}
+  - component: {fileID: 9182775075023427624}
   m_Layer: 9
   m_Name: SpawnFloor (56)
-  m_TagString: Untagged
+  m_TagString: SpawnFloor
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4876,6 +5742,18 @@ MonoBehaviour:
   - {fileID: 6127198784939167874, guid: 781caf5292ea8dd4585b20daed191ebd, type: 3}
   - {fileID: 6127198784939167874, guid: c55c5d8fa5c165647bb153608420db2c, type: 3}
   - {fileID: 6127198784939167874, guid: 17f601c6317339146b56a7896b85b905, type: 3}
+--- !u!114 &9182775075023427624
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8351430056885532322}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55889f364545edf4abff2c14ec761408, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &8530076221140511411
 GameObject:
   m_ObjectHideFlags: 0
@@ -4886,9 +5764,10 @@ GameObject:
   m_Component:
   - component: {fileID: 2720060864998926223}
   - component: {fileID: 5548313631394458132}
+  - component: {fileID: 9073423614282508062}
   m_Layer: 9
   m_Name: SpawnFloor (1)
-  m_TagString: Untagged
+  m_TagString: SpawnFloor
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4924,6 +5803,18 @@ MonoBehaviour:
   - {fileID: 6127198784939167874, guid: 781caf5292ea8dd4585b20daed191ebd, type: 3}
   - {fileID: 6127198784939167874, guid: c55c5d8fa5c165647bb153608420db2c, type: 3}
   - {fileID: 6127198784939167874, guid: 17f601c6317339146b56a7896b85b905, type: 3}
+--- !u!114 &9073423614282508062
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8530076221140511411}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55889f364545edf4abff2c14ec761408, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &9182471994125033113
 GameObject:
   m_ObjectHideFlags: 0
@@ -4934,9 +5825,10 @@ GameObject:
   m_Component:
   - component: {fileID: 8886741418681936674}
   - component: {fileID: 5623422062804163063}
+  - component: {fileID: 6271564533539705675}
   m_Layer: 9
   m_Name: SpawnFloor (23)
-  m_TagString: Untagged
+  m_TagString: SpawnFloor
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4972,3 +5864,15 @@ MonoBehaviour:
   - {fileID: 6127198784939167874, guid: 781caf5292ea8dd4585b20daed191ebd, type: 3}
   - {fileID: 6127198784939167874, guid: c55c5d8fa5c165647bb153608420db2c, type: 3}
   - {fileID: 6127198784939167874, guid: 17f601c6317339146b56a7896b85b905, type: 3}
+--- !u!114 &6271564533539705675
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9182471994125033113}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55889f364545edf4abff2c14ec761408, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

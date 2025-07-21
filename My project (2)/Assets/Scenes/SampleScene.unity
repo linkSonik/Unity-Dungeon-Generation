@@ -396,6 +396,7 @@ MonoBehaviour:
   minX: -5
   maxX: 25
   minY: -25
+  maxRooms: 15
   stop: 0
   room:
     serializedVersion: 2
